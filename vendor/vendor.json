@@ -1,0 +1,20 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "LrOBY+1D2AyBsWr0J4B5QuueNl8=",
+			"path": "github.com/42wim/matterbridge/matterhook",
+			"revision": "6ea8be5749745a8b76a77a960cca6792b1743efe",
+			"revisionTime": "2017-04-11T19:51:23Z"
+		},
+		{
+			"checksumSHA1": "p1XTw6uKX4nZOU9HaSanK47Mlk0=",
+			"origin": "github.com/42wim/matterbridge/vendor/github.com/gorilla/schema",
+			"path": "github.com/gorilla/schema",
+			"revision": "6ea8be5749745a8b76a77a960cca6792b1743efe",
+			"revisionTime": "2017-04-11T19:51:23Z"
+		}
+	],
+	"rootPath": "github.com/HeavyHorst/slackgun"
+}
